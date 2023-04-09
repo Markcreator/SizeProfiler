@@ -96,8 +96,8 @@
         "com.unity.nuget.newtonsoft-json": "2.0.2"
       }
     },
-    "com.vrchat.demo-template": {
-      "version": "file:com.vrchat.demo-template",
+    "net.markcreator.sizeprofiler": {
+      "version": "file:net.markcreator.sizeprofiler",
       "depth": 0,
       "source": "embedded",
       "dependencies": {}
