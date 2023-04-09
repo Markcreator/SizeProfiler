@@ -8,5 +8,9 @@
   "legacyFolders": {},
   "legacyFiles": {},
   "localPath": "C:\\Users\\markm\\Bureaublad\\Local Projects\\UnityTools\\Packages\\net.markcreator.sizeprofiler",
-  "type": "tool"
+  "type": "tool",
+  "author": {
+      "name": "Markcreator",
+      "url": "https://github.com/Markcreator"
+  },
 }
