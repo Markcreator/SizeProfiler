@@ -96,12 +96,6 @@
         "com.unity.nuget.newtonsoft-json": "2.0.2"
       }
     },
-    "net.markcreator.sizeprofiler": {
-      "version": "file:net.markcreator.sizeprofiler",
-      "depth": 0,
-      "source": "embedded",
-      "dependencies": {}
-    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
